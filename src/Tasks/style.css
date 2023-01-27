@@ -13,7 +13,7 @@
     border-bottom: 1px solid #ddd;
 }
 
-.tasks__content--done{
+.tasks__content--done {
     text-decoration: line-through;
 }
 
@@ -48,4 +48,3 @@
 .tasks__button--remove:active {
     background: hsl(348, 83%, 57%);
 }
-
