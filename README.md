@@ -5,7 +5,7 @@
 
 https://rafipietrzyk.github.io/taskListInReact/
 
-![screen projektu](%PUBLIC_URL%/screenWebsite.jpg)
+![screen projektu](public/screenWebsite.JPG)
 
 ## Decsription
 
