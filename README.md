@@ -9,7 +9,7 @@ https://rafipietrzyk.github.io/taskListInReact/
 
 ## Decsription
 
-The page is used to add and remove various tasks that we have to do. The following technologies were used in the project: HTML, CSS, JavaScript, React. The project was written in accordance with the BEM convention. The project is being developed all the time.
+The page is used to add and remove various tasks that we have to do. The following technologies were used in the project: HTML, CSS, JavaScript, React, Babel, Webpack, Node. The project was written in accordance with the BEM convention. The project is being developed all the time.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
