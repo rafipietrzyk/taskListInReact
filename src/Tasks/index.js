@@ -1,9 +1,5 @@
 import "./style.css";
 
-const onDelete = (name) => {
-console.log(`Nazwa zadania do usunięcia: ${name}`);
-}
-
 const Tasks = ({ tasks, hideDone }) => {
     
     return (
@@ -26,7 +22,6 @@ const Tasks = ({ tasks, hideDone }) => {
                         {task.content}
                     </span>
                     <button className="tasks__button tasks__button--remove"
-                        onClick={() => onDelete(task.content)}
                     >
                         🗑
                     </button>
