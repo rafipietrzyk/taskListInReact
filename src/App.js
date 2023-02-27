@@ -8,10 +8,7 @@ import Container from "./Container";
 
 function App() {
   const [hideDone, setHideDone] = useState(false);
-  const [tasks, steTasks] = useState([
-    { id: 1, content: "przejść na Reacta", done: false },
-    { id: 2, content: "zjeść kolacje", done: true },
-  ]);
+  const [tasks, steTasks] = useState([]);
 
   const toggleHideDone = () => {
     setHideDone(hideDone => !hideDone);
